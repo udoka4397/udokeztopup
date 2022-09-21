@@ -1,0 +1,83 @@
+
+
+h2 {
+    color: blue;
+}
+
+.welcome{
+    background-color: rgb(42, 220, 62);
+    padding: 30px;
+}
+.welcome2{
+    
+}     
+
+.get_started:hover {
+    background-color: rgb(128, 128, 216)
+}
+
+.get_started {
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 30px;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 5px;
+}
+
+.merchant_login {
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 30px;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 5px;
+}
+
+.merchant_login:hover {
+    background-color: rgb(128, 128, 216);
+}
+
+
+
+
+.why-choose-us {background-color: rgb(171, 234, 233);
+    border-radius: 8px;
+    text-align: justify;
+    border: 20px;
+    margin: 20px;
+    padding: 30px;
+   
+}
+
+.about{
+    background-color:  rgb(32, 148, 146);
+    border-radius: 10px;
+    text-align: justify;
+    border: 20px;
+    margin: 20px;
+    padding: 30px;
+}
+
+.about:hover {
+    background-color: rgb(31, 177, 75);
+}
+
+.menu{background-color:  rgb(47, 235, 14);}
+
+
+.form {
+    
+    background-color: aquamarine;
+    border-radius: 5px;
+    border: 10px;
+    margin: 20px;
+    padding: 10px;
+}
+.contact{
+    background-color: rgb(125, 237, 201);
+    border-radius: 5px;
+    border: 10px;
+    margin: 20px;
+    padding: 10px;
+}   
